@@ -4,3 +4,6 @@ if(a==b)
 s.o.p("Equal");
 else
 s.o.p("Not Equal");
+
+
+S.o.p("End of the program");
