@@ -1,0 +1,6 @@
+int a=1,b=1;
+System.out.println("Hai");
+if(a==b)
+s.o.p("Equal");
+else
+s.o.p("Not Equal");
